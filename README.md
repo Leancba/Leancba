@@ -1,57 +1,73 @@
-<h1 align="center">¡Hola! Soy [tu nombre] 👋</h1>
+# <div align="center">¡ Hola, Soy Dylan !💪</div>  
+  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/[tu-nombre-de-usuario-linkedin]/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-[tu-nombre-de-usuario-linkedin]-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://twitter.com/[tu-nombre-de-usuario-twitter]/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-[tu-nombre-de-usuario-twitter]-blue?style=flat-square&logo=twitter"></a>
-  <a href="https://www.instagram.com/[tu-nombre-de-usuario-instagram]/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-[tu-nombre-de-usuario-instagram]-purple?style=flat-square&logo=instagram"></a>
-</p>
+### <div align="center">Soy full stack developer👨‍💻 🚀</div>  
+  
 
-<p align="center">
-  <samp>Soy un [tu rol o título], apasionado por [tus intereses y habilidades]. Me encanta aprender y compartir conocimiento con la comunidad de GitHub.</samp>
-  <br><br>
-  <img src="https://media.giphy.com/media/3oEduUyCGbZf5kc5yY/giphy.gif" width="250"/>
-</p>
+- 🔭 Me encuentro realizando proyectos freelance tanto en el ámbito de backend como frontend.  
+  
 
-## 💻 Tecnologías y herramientas
+- 🌱 Estoy en constante aprendizaje de mis aptitudes.  
+  
 
-### Frontend
+- ❓ Me apasiona el frontend, las aplicaciones responsive y mi framework favorito es React.  
+  
 
-| Tecnología/Herramienta  Icono | Descripción |
-| --- | :---: | --- |
-| HTML5 | <img width="48" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> | Lenguaje de marcado utilizado para crear páginas web. |
-| CSS3 | <img width="48" src="https://img.icons8.com/color/48/000000/css3.png"/> | Hojas de estilo en cascada utilizadas para diseñar páginas web. |
-| JavaScript | <img width="48" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> | Lenguaje de programación utilizado para crear interactividad en páginas web. |
-| React | <img width="48" src="https://img.icons8.com/color/48/000000/react-native.png"/> | Biblioteca de JavaScript utilizada para crear interfaces de usuario. |
-| Redux | <img width="48" src="https://img.icons8.com/color/48/000000/redux.png"/> | Biblioteca de JavaScript utilizada para gestionar el estado de una aplicación. |
-| React Native | <img width="48" src="https://img.icons8.com/color/48/000000/react-native.png"/> | Framework de JavaScript utilizado para crear aplicaciones móviles. |
-| Material UI | <img width="48" src="https://img.icons8.com/color/48/000000/material-ui.png"/> | Biblioteca de componentes de React basada en Material Design. |
-| Ant Design | <img width="48" src="https://img.icons8.com/color/48/000000/ant-design.png"/> | Biblioteca de componentes de React basada en el diseño de Ant Financial. |
+<br/>  
 
-### Backend
 
-| Tecnología/Herramienta | Icono | Descripción |
-| --- | :---: | --- |
-| Node.js | <img width="48" src="https://img.icons8.com/color/48/000000/nodejs.png"/> | Entorno de ejecución de JavaScript utilizado para crear aplicaciones del lado del servidor. |
-| Express.js | <img width="48" src="https://img.icons8.com/color/48/000000/express.png"/> | Framework de Node.js utilizado para crear aplicaciones web y APIs. |
-| Sequelize | <img width="48" src="https://img.icons8.com/color/48/000000/database-architecture.png"/> | ORM de Node.js utilizado para interactuar con bases de datos relacionales. |
-| PostgreSQL | <img width="48" src="https://img.icons8.com/color/48/000000/postgreesql.png"/> | Sistema de gestión de bases de datos relacional de código abierto. |
-| Firebase | <img width="48" src="https://img.icons8.com/color/48/000000/firebase.png"/> | Plataforma de desarrollo de aplicaciones móviles y web de Google. |
+## My Skill Set  
+<table><tr><td valign="top" width="50%">
 
 
 
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="50%">
 
 
-<!--
-**Leancba/Leancba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Backend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+</div>
+</div>
+</td><td valign="top" width="50%">
+ </table>
+<br/>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/dylansebastianm" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/dylan-sebastian-03706316b" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dylan-sebastian-03706316b&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
