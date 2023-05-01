@@ -34,7 +34,8 @@
 
 | Tecnología/Herramienta | Descripción |
 | --- | --- |
-| HTML5 | Lenguaje de marcado utilizado para crear páginas web. |
+| 	Descripción
+<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/html_icon_130900.png" width="30" alt="HTML5"> HTML5 | Lenguaje de marcado utilizado para crear páginas web. |
 | CSS3 | Hojas de estilo en cascada utilizadas para diseñar páginas web. |
 | JavaScript | Lenguaje de programación utilizado para crear interactividad en páginas web. |
 | React | Biblioteca de JavaScript utilizada para crear interfaces de usuario. |
