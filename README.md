@@ -41,7 +41,7 @@
 | React | Biblioteca de JavaScript utilizada para crear interfaces de usuario. |
 | Redux | Biblioteca de JavaScript utilizada para gestionar el estado de una aplicación. |
 | React Native | Framework de JavaScript utilizado para crear aplicaciones móviles. |
-| Material UI | Biblioteca de componentes de React basada en Material Design. |
+| <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" width="30" alt="JavaScript"> JavaScript | Biblioteca de componentes de React basada en Material Design. |
 | Ant Design | Biblioteca de componentes de React basada en el diseño de Ant Financial. |
 
 ### Backend
