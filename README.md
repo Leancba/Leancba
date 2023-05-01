@@ -16,19 +16,27 @@
 
 ### Frontend
 
-## 💻 Tecnologías y herramientas
-
-### Frontend
-
-|  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ant-design/ant-design-original.svg" alt="Ant Design" width="50" height="50"/> |
+| Tecnología/Herramienta | Descripción |
+| --- | --- |
+| <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> HTML5 | Lenguaje de marcado utilizado para crear páginas web. |
+| <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS3 | Hojas de estilo en cascada utilizadas para diseñar páginas web. |
+| <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> JavaScript | Lenguaje de programación utilizado para crear interactividad en páginas web. |
+| <img src="https://img.icons8.com/color/48/000000/react-native.png"/> React | Biblioteca de JavaScript utilizada para crear interfaces de usuario. |
+| <img src="https://img.icons8.com/color/48/000000/redux.png"/> Redux | Biblioteca de JavaScript utilizada para gestionar el estado de una aplicación. |
+| <img src="https://img.icons8.com/color/48/000000/react-native.png"/> React Native | Framework de JavaScript utilizado para crear aplicaciones móviles. |
+| <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> Material UI | Biblioteca de componentes de React basada en Material Design. |
+| <img src="https://img.icons8.com/color/48/000000/ant-design.png"/> Ant Design | Biblioteca de componentes de React basada en el diseño de Ant Financial. |
 
 ### Backend
 
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/> |
+| Tecnología/Herramienta | Descripción |
+| --- | --- |
+| <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js | Entorno de ejecución de JavaScript utilizado para crear aplicaciones del lado del servidor. |
+| <img src="https://img.icons8.com/color/48/000000/express.png"/> Express.js | Framework de Node.js utilizado para crear aplicaciones web y APIs. |
+| <img src="https://img.icons8.com/color/48/000000/database-architecture.png"/> Sequelize | ORM de Node.js utilizado para interactuar con bases de datos relacionales. |
+| <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> PostgreSQL | Sistema de gestión de bases de datos relacional de código abierto. |
+| <img src="https://img.icons8.com/color/48/000000/firebase.png"/> Firebase | Plataforma de desarrollo de aplicaciones móviles y web de Google. |
+
 
 
 
