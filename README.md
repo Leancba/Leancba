@@ -4,7 +4,7 @@
 ### <div align="center">Soy Full Stack web/mobile developer👨‍💻 🚀</div>  
   
 
-    💼 Actualmente me encuentro trabajando en Exo-Digital, una empresa de marketing digital, donde tuve la oportunidad de crear e implementar el área de desarrollo.
+    💼 Actualmente me encuentro trabajando en Exo-Digital,donde tuve la oportunidad de crear e implementar el área de desarrollo.
 
     📚 Siempre estoy en constante aprendizaje para mejorar mis habilidades y estar al tanto de las últimas tecnologías.
 
