@@ -1,7 +1,7 @@
-# <div align="center">¡ Hola, Soy Dylan !💪</div>  
+# <div align="center">¡ Hola, Soy Leandro !💪</div>  
   
 
-### <div align="center">Soy full stack developer👨‍💻 🚀</div>  
+### <div align="center">Soy Full Stack web/mobile developer👨‍💻 🚀</div>  
   
 
 - 🔭 Me encuentro realizando proyectos freelance tanto en el ámbito de backend como frontend.  
@@ -16,40 +16,31 @@
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="50%">
+## 💻 Tecnologías y herramientas
 
+### Frontend
 
+| Tecnología/Herramienta | Descripción |
+| --- | --- |
+| <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> HTML5 | Lenguaje de marcado utilizado para crear páginas web. |
+| <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS3 | Hojas de estilo en cascada utilizadas para diseñar páginas web. |
+| <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> JavaScript | Lenguaje de programación utilizado para crear interactividad en páginas web. |
+| <img src="https://img.icons8.com/color/48/000000/react-native.png"/> React | Biblioteca de JavaScript utilizada para crear interfaces de usuario. |
+| <img src="https://img.icons8.com/color/48/000000/redux.png"/> Redux | Biblioteca de JavaScript utilizada para gestionar el estado de una aplicación. |
+| <img src="https://img.icons8.com/color/48/000000/react-native.png"/> React Native | Framework de JavaScript utilizado para crear aplicaciones móviles. |
+| <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> Material UI | Biblioteca de componentes de React basada en Material Design. |
+| <img src="https://img.icons8.com/color/48/000000/ant-design.png"/> Ant Design | Biblioteca de componentes de React basada en el diseño de Ant Financial. |
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-</div>
+### Backend
 
-</td><td valign="top" width="50%">
+| Tecnología/Herramienta | Descripción |
+| --- | --- |
+| <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js | Entorno de ejecución de JavaScript utilizado para crear aplicaciones del lado del servidor. |
+| <img src="https://img.icons8.com/color/48/000000/express.png"/> Express.js | Framework de Node.js utilizado para crear aplicaciones web y APIs. |
+| <img src="https://img.icons8.com/color/48/000000/database-architecture.png"/> Sequelize | ORM de Node.js utilizado para interactuar con bases de datos relacionales. |
+| <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> PostgreSQL | Sistema de gestión de bases de datos relacional de código abierto. |
+| <img src="https://img.icons8.com/color/48/000000/firebase.png"/> Firebase | Plataforma de desarrollo de aplicaciones móviles y web de Google. |
 
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-</div>
-</div>
-</td><td valign="top" width="50%">
- </table>
-<br/>  
 
 
 ## Connect with me  
