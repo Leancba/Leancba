@@ -16,26 +16,19 @@
 
 ### Frontend
 
-| Tecnología/Herramienta | Descripción |
-| --- | --- | --- |
-| HTML5  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> | Lenguaje de marcado utilizado para crear páginas web. |
-| CSS3  <img src="https://img.icons8.com/color/48/000000/css3.png"/> | Hojas de estilo en cascada utilizadas para diseñar páginas web. |
-| JavaScript  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> | Lenguaje de programación utilizado para crear interactividad en páginas web. |
-| React  <img src="https://img.icons8.com/color/48/000000/react-native.png"/> | Biblioteca de JavaScript utilizada para crear interfaces de usuario. |
-| Redux  <img src="https://img.icons8.com/color/48/000000/redux.png"/> | Biblioteca de JavaScript utilizada para gestionar el estado de una aplicación. |
-| React Native  <img src="https://img.icons8.com/color/48/000000/react-native.png"/> | Framework de JavaScript utilizado para crear aplicaciones móviles. |
-| Material UI  <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> | Biblioteca de componentes de React basada en Material Design. |
-| Ant Design  <img src="https://img.icons8.com/color/48/000000/ant-design.png"/> | Biblioteca de componentes de React basada en el diseño de Ant Financial. |
+## 💻 Tecnologías y herramientas
+
+### Frontend
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ant-design/ant-design-original.svg" alt="Ant Design" width="50" height="50"/> |
 
 ### Backend
 
-| Tecnología/Herramienta | Descripción |
-| --- | --- | --- |
-| Node.js <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> | Entorno de ejecución de JavaScript utilizado para crear aplicaciones del lado del servidor. |
-| Express.js <img src="https://img.icons8.com/color/48/000000/express.png"/> | Framework de Node.js utilizado para crear aplicaciones web y APIs. |
-| Sequelize <img src="https://img.icons8.com/color/48/000000/database-architecture.png"/> | ORM de Node.js utilizado para interactuar con bases de datos relacionales. |
-| PostgreSQL <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> | Sistema de gestión de bases de datos relacional de código abierto. |
-| Firebase  <img src="https://img.icons8.com/color/48/000000/firebase.png"/> | Plataforma de desarrollo de aplicaciones móviles y web de Google. |
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/> |
 
 
 
