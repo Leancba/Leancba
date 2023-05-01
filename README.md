@@ -30,29 +30,31 @@
 
 ## 💻 Tecnologías y herramientas
 
+## 💻 Tecnologías y herramientas
+
 ### Frontend
 
-| Tecnología/Herramienta | Descripción |
-| --- | --- |
-| 	Descripción
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/html_icon_130900.png" width="30" alt="HTML5"> HTML5 | Lenguaje de marcado utilizado para crear páginas web. |
-| CSS3 | Hojas de estilo en cascada utilizadas para diseñar páginas web. |
-| JavaScript | Lenguaje de programación utilizado para crear interactividad en páginas web. |
-| React | Biblioteca de JavaScript utilizada para crear interfaces de usuario. |
-| Redux | Biblioteca de JavaScript utilizada para gestionar el estado de una aplicación. |
-| React Native | Framework de JavaScript utilizado para crear aplicaciones móviles. |
-| <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" width="30" alt="JavaScript"> JavaScript | Biblioteca de componentes de React basada en Material Design. |
-| Ant Design | Biblioteca de componentes de React basada en el diseño de Ant Financial. |
+| Tecnología/Herramienta | Icono | Descripción |
+| --- | --- | --- |
+| HTML5 | <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> | Lenguaje de marcado utilizado para crear páginas web. |
+| CSS3 | <img src="https://img.icons8.com/color/48/000000/css3.png"/> | Hojas de estilo en cascada utilizadas para diseñar páginas web. |
+| JavaScript | <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> | Lenguaje de programación utilizado para crear interactividad en páginas web. |
+| React | <img src="https://img.icons8.com/color/48/000000/react-native.png"/> | Biblioteca de JavaScript utilizada para crear interfaces de usuario. |
+| Redux | <img src="https://img.icons8.com/color/48/000000/redux.png"/> | Biblioteca de JavaScript utilizada para gestionar el estado de una aplicación. |
+| React Native | <img src="https://img.icons8.com/color/48/000000/react-native.png"/> | Framework de JavaScript utilizado para crear aplicaciones móviles. |
+| Material UI | <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> | Biblioteca de componentes de React basada en Material Design. |
+| Ant Design | <img src="https://img.icons8.com/color/48/000000/ant-design.png"/> | Biblioteca de componentes de React basada en el diseño de Ant Financial. |
 
 ### Backend
 
-| Tecnología/Herramienta | Descripción |
-| --- | --- |
-| Node.js | Entorno de ejecución de JavaScript utilizado para crear aplicaciones del lado del servidor. |
-| Express.js | Framework de Node.js utilizado para crear aplicaciones web y APIs. |
-| Sequelize | ORM de Node.js utilizado para interactuar con bases de datos relacionales. |
-| PostgreSQL | Sistema de gestión de bases de datos relacional de código abierto. |
-| Firebase | Plataforma de desarrollo de aplicaciones móviles y web de Google. |
+| Tecnología/Herramienta | Icono | Descripción |
+| --- | --- | --- |
+| Node.js | <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> | Entorno de ejecución de JavaScript utilizado para crear aplicaciones del lado del servidor. |
+| Express.js | <img src="https://img.icons8.com/color/48/000000/express.png"/> | Framework de Node.js utilizado para crear aplicaciones web y APIs. |
+| Sequelize | <img src="https://img.icons8.com/color/48/000000/database-architecture.png"/> | ORM de Node.js utilizado para interactuar con bases de datos relacionales. |
+| PostgreSQL | <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> | Sistema de gestión de bases de datos relacional de código abierto. |
+| Firebase | <img src="https://img.icons8.com/color/48/000000/firebase.png"/> | Plataforma de desarrollo de aplicaciones móviles y web de Google. |
+
 
 
 
