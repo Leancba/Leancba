@@ -4,11 +4,11 @@
 ### <div align="center">Soy Full Stack web/mobile developer👨‍💻 🚀</div>  
   
 
-    💼 Actualmente me encuentro trabajando en Exo-Digital,donde tuve la oportunidad de crear e implementar el área de desarrollo.
+    💼 Full-Stack en Exo-Digital,donde tuve la oportunidad de crear e implementar el área de desarrollo.
 
-    📚 Siempre estoy en constante aprendizaje para mejorar mis habilidades y estar al tanto de las últimas tecnologías.
+    📚 Siempre estoy en constante aprendizaje para mejorar mis habilidades.
 
-    💻 Me apasiona tanto el frontend como el backend del desarrollo de aplicaciones. Me destaco en el desarrollo de aplicaciones web y móviles.
+    💻 Me apasiona tanto el frontend como el backend. Me destaco en el desarrollo de aplicaciones web y móviles.
   
 
 <br/>  
