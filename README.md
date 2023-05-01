@@ -16,26 +16,26 @@
 
 ### Frontend
 
-| Tecnología/Herramienta | Descripción |
-| --- | --- |
-| <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> HTML5 | Lenguaje de marcado utilizado para crear páginas web. |
-| <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS3 | Hojas de estilo en cascada utilizadas para diseñar páginas web. |
-| <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> JavaScript | Lenguaje de programación utilizado para crear interactividad en páginas web. |
-| <img src="https://img.icons8.com/color/48/000000/react-native.png"/> React | Biblioteca de JavaScript utilizada para crear interfaces de usuario. |
-| <img src="https://img.icons8.com/color/48/000000/redux.png"/> Redux | Biblioteca de JavaScript utilizada para gestionar el estado de una aplicación. |
-| <img src="https://img.icons8.com/color/48/000000/react-native.png"/> React Native | Framework de JavaScript utilizado para crear aplicaciones móviles. |
-| <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> Material UI | Biblioteca de componentes de React basada en Material Design. |
-| <img src="https://img.icons8.com/color/48/000000/ant-design.png"/> Ant Design | Biblioteca de componentes de React basada en el diseño de Ant Financial. |
+| Tecnología/Herramienta | Icono | Descripción |
+| --- | :---: | --- |
+| HTML5 | <img width="48" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> | Lenguaje de marcado utilizado para crear páginas web. |
+| CSS3 | <img width="48" src="https://img.icons8.com/color/48/000000/css3.png"/> | Hojas de estilo en cascada utilizadas para diseñar páginas web. |
+| JavaScript | <img width="48" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> | Lenguaje de programación utilizado para crear interactividad en páginas web. |
+| React | <img width="48" src="https://img.icons8.com/color/48/000000/react-native.png"/> | Biblioteca de JavaScript utilizada para crear interfaces de usuario. |
+| Redux | <img width="48" src="https://img.icons8.com/color/48/000000/redux.png"/> | Biblioteca de JavaScript utilizada para gestionar el estado de una aplicación. |
+| React Native | <img width="48" src="https://img.icons8.com/color/48/000000/react-native.png"/> | Framework de JavaScript utilizado para crear aplicaciones móviles. |
+| Material UI | <img width="48" src="https://img.icons8.com/color/48/000000/material-ui.png"/> | Biblioteca de componentes de React basada en Material Design. |
+| Ant Design | <img width="48" src="https://img.icons8.com/color/48/000000/ant-design.png"/> | Biblioteca de componentes de React basada en el diseño de Ant Financial. |
 
 ### Backend
 
-| Tecnología/Herramienta | Descripción |
-| --- | --- |
-| <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js | Entorno de ejecución de JavaScript utilizado para crear aplicaciones del lado del servidor. |
-| <img src="https://img.icons8.com/color/48/000000/express.png"/> Express.js | Framework de Node.js utilizado para crear aplicaciones web y APIs. |
-| <img src="https://img.icons8.com/color/48/000000/database-architecture.png"/> Sequelize | ORM de Node.js utilizado para interactuar con bases de datos relacionales. |
-| <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> PostgreSQL | Sistema de gestión de bases de datos relacional de código abierto. |
-| <img src="https://img.icons8.com/color/48/000000/firebase.png"/> Firebase | Plataforma de desarrollo de aplicaciones móviles y web de Google. |
+| Tecnología/Herramienta | Icono | Descripción |
+| --- | :---: | --- |
+| Node.js | <img width="48" src="https://img.icons8.com/color/48/000000/nodejs.png"/> | Entorno de ejecución de JavaScript utilizado para crear aplicaciones del lado del servidor. |
+| Express.js | <img width="48" src="https://img.icons8.com/color/48/000000/express.png"/> | Framework de Node.js utilizado para crear aplicaciones web y APIs. |
+| Sequelize | <img width="48" src="https://img.icons8.com/color/48/000000/database-architecture.png"/> | ORM de Node.js utilizado para interactuar con bases de datos relacionales. |
+| PostgreSQL | <img width="48" src="https://img.icons8.com/color/48/000000/postgreesql.png"/> | Sistema de gestión de bases de datos relacional de código abierto. |
+| Firebase | <img width="48" src="https://img.icons8.com/color/48/000000/firebase.png"/> | Plataforma de desarrollo de aplicaciones móviles y web de Google. |
 
 
 
