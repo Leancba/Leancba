@@ -16,7 +16,7 @@
 
 ### Frontend
 
-| Tecnología/Herramienta | Icono | Descripción |
+| Tecnología/Herramienta  Icono | Descripción |
 | --- | :---: | --- |
 | HTML5 | <img width="48" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> | Lenguaje de marcado utilizado para crear páginas web. |
 | CSS3 | <img width="48" src="https://img.icons8.com/color/48/000000/css3.png"/> | Hojas de estilo en cascada utilizadas para diseñar páginas web. |
