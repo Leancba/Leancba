@@ -4,13 +4,11 @@
 ### <div align="center">Soy Full Stack web/mobile developer👨‍💻 🚀</div>  
   
 
-- 🔭 Me encuentro realizando proyectos freelance tanto en el ámbito de backend como frontend.  
-  
+    💼 Actualmente me encuentro trabajando en Exo-Digital, una empresa de marketing digital, donde tuve la oportunidad de crear e implementar el área de desarrollo.
 
-- 🌱 Estoy en constante aprendizaje de mis aptitudes.  
-  
+    📚 Siempre estoy en constante aprendizaje para mejorar mis habilidades y estar al tanto de las últimas tecnologías.
 
-- ❓ Me apasiona el frontend, las aplicaciones responsive y mi framework favorito es React.  
+    💻 Me apasiona tanto el frontend como el backend del desarrollo de aplicaciones. Me destaco en el desarrollo de aplicaciones web y móviles, con especial énfasis en la creación de interfaces de usuario elegantes y funcionales utilizando mi framework favorito, React. Además, tengo experiencia en la utilización de diferentes tecnologías y herramientas de desarrollo, tanto del lado del cliente como del servidor.
   
 
 <br/>  
