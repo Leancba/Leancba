@@ -42,6 +42,17 @@
 | <img src="https://img.icons8.com/color/48/000000/firebase.png"/> Firebase | Plataforma de desarrollo de aplicaciones móviles y web de Google. |
 
 
+### Otras herramientas
+
+| Tecnología/Herramienta | Descripción |
+| --- | --- |
+| <img src="https://img.icons8.com/color/48/000000/bitbucket.png"/> Bitbucket | Plataforma de alojamiento de repositorios de Git. |
+| <img src="https://img.icons8.com/color/48/000000/git.png"/> Git | Sistema de control de versiones distribuido. |
+| <img src="https://img.icons8.com/color/48/000000/trello.png"/> Trello | Aplicación web para la gestión de proyectos y tareas. |
+| <img src="https://img.icons8.com/color/48/000000/linux.png"/> Linux (Ubuntu) | Sistema operativo de código abierto basado en Unix. |
+| <img src="https://img.icons8.com/color/48/000000/postman-api.png"/> Postman | Plataforma para el desarrollo de APIs. |
+| <img src="https://img.icons8.com/color/48/000000/database-architecture.png"/> DBeaver | Herramienta de gestión de bases de datos gratuita y de código abierto. |
+
 
 ## Connect with me  
 <div align="center">
@@ -53,12 +64,6 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dylan-sebastian-03706316b&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
