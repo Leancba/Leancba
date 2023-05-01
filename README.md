@@ -8,7 +8,7 @@
 
     📚 Siempre estoy en constante aprendizaje para mejorar mis habilidades y estar al tanto de las últimas tecnologías.
 
-    💻 Me apasiona tanto el frontend como el backend del desarrollo de aplicaciones. Me destaco en el desarrollo de aplicaciones web y móviles, con especial énfasis en la creación de interfaces de usuario elegantes y funcionales utilizando mi framework favorito, React. Además, tengo experiencia en la utilización de diferentes tecnologías y herramientas de desarrollo, tanto del lado del cliente como del servidor.
+    💻 Me apasiona tanto el frontend como el backend del desarrollo de aplicaciones. Me destaco en el desarrollo de aplicaciones web y móviles.
   
 
 <br/>  
