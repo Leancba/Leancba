@@ -12,24 +12,6 @@
   <img src="https://media.giphy.com/media/3oEduUyCGbZf5kc5yY/giphy.gif" width="250"/>
 </p>
 
-## 💻 Tecnologías y herramientas de Frontend
-
-<h1 align="center">¡Hola! Soy [tu nombre] 👋</h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/[tu-nombre-de-usuario-linkedin]/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-[tu-nombre-de-usuario-linkedin]-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://twitter.com/[tu-nombre-de-usuario-twitter]/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-[tu-nombre-de-usuario-twitter]-blue?style=flat-square&logo=twitter"></a>
-  <a href="https://www.instagram.com/[tu-nombre-de-usuario-instagram]/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-[tu-nombre-de-usuario-instagram]-purple?style=flat-square&logo=instagram"></a>
-</p>
-
-<p align="center">
-  <samp>Soy un [tu rol o título], apasionado por [tus intereses y habilidades]. Me encanta aprender y compartir conocimiento con la comunidad de GitHub.</samp>
-  <br><br>
-  <img src="https://media.giphy.com/media/3oEduUyCGbZf5kc5yY/giphy.gif" width="250"/>
-</p>
-
-## 💻 Tecnologías y herramientas
-
 ## 💻 Tecnologías y herramientas
 
 ### Frontend
